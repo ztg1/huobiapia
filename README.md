@@ -15,7 +15,7 @@
  * 微博图片自动解析
  * 聊天内容支持微博表情
  * 支持多服务器部署
- * 业务逻辑全部在一个文件中，快速入门可以参考这个文件[Applications/Chat/Event.php](https://github.com/walkor/workerman-chat/blob/master/Applications/Chat/Event.php)   
+ * 业务逻辑全部在一个文件中，快速入门可以参考这个文件[Applications/Huobiapi]  
   
 # 重要事情 重要事情 重要事情
   1、 运行本项目服务器最好是国外的（国内要是你有代理）
