@@ -16,7 +16,8 @@
  * 业务逻辑全部在一个文件中，快速入门可以参考这个文件[Applications/Chat/Event.php](https://github.com/walkor/workerman-chat/blob/master/Applications/Chat/Event.php)   
   
 # 重要事情 重要事情 重要事情
-   运行本项目服务器最好是国外的（国内要是你有代理）
+  1、 运行本项目服务器最好是国外的（国内要是你有代理）
+  2、 需要安装redis 扩展
 
 启动停止(Linux系统)
 =====
@@ -26,7 +27,7 @@
 以daemon方式启动  
 ```php start.php start -d ```
 
-#(windows系统) 没有尝试过要是你可以运行看看
+#(windows系统) 没有尝试过、你可以运行看看
 
 
 #前端连接 
